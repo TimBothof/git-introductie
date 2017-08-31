@@ -1,11 +1,11 @@
 
 
-#over Jeroen
+#over tim
 
-**Voornaam:** Jeroen
+**Voornaam:** Tim   
 
-**Achternaam:** Slemmer
+**Achternaam:** Bothof
 
-**E-mail adres:** [Jeroen Slemmer](jslemmer@davinci.nl)
+**E-mail adres:** [Tim Bothof](tim.bothof.e@gmail.com)
 
 **Telefoon:** 0612345678
